@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "demo_quadTree",
+  "id": "00e3bdd8-6cda-4d09-864e-1631594fbeeb",
+  "version": "2.4.8",
+  "isNew": false
+}
